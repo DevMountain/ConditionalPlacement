@@ -24,8 +24,8 @@ The third project for iOS pre-course using conditionals.
 ### Step 3: Use a Ternary Operator to set values
 - You need to set those integers in the same line you create them using a ternary operator
   - Example: ``` variablePlace = variable > 7 ? 1 : 2 ```
-  - That code checks if joshua is greater than 7 and if it is it sets joshuaPlace to 1 otherwise it sets it to 2
-- If karl is > 7 it should be set to 1 otherwise it should be set to 2
+  - That code checks if variable is greater than 7 and if it is it sets variablePlace to 1 otherwise it sets it to 2
+- If karl is > 7 karlPlace should be set to 1 otherwise it should be set to 2
 - If leonard is > 7 leonardPlace should be set to 1 otherwise it should be set to 2
 
 ### Step 4: Print out the placements
